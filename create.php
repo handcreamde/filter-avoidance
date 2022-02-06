@@ -11,6 +11,5 @@ $durl = $_POST['durl'];
 echo '<center>URL(共有できます):<br> https://fesv.repl.co/filter2/data.php?url='.$url.'&durl='.$durl.'</p></center>';
 ?>
 <center><h3>作成したURLは他人に共有できます！</h3>
-<h3>このツールを使ってもブロックされてしまった場合は、<a href="/filter-alpha/">アルファバージョン</a>を使ってみてください。</h3></center>
 <hr>
 <center><p>使用はあくまで、<b>★自★己★責★任★</b>で、おなしゃす。</p></center>
